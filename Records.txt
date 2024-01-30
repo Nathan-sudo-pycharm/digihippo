@@ -14,3 +14,26 @@ Report :
 
         Work done: Installed Shadcn ui , made the basic home page using svg , found icon svg. 
 Ended on : 8:22PM        - Nathan Ivor Sequeira
+
+
+Date : 30 Jan 2024 
+Time : 3:46 PM
+Author : Nathan Ivor Sequeira
+Report :
+        Deployed the project on vercel ( https://digihippo-jade.vercel.app/).
+        Changed the title and description of the project in ' layout.tsx 'file.
+        By default in next 14 all components are  rendered server-side
+        Config folder:  we keep all our config objects that are important for our project instead of declaring objects anywhere and everywhere.
+        ctrl+D : we can select many of the same text and change the values for all of them at once.
+        https://excalidraw.com/  
+        https://ui.shadcn.com/docs/components/sheet
+        Stuck with an issue in cart      error shown 
+        
+Ended on : 8:22PM        - Nathan Ivor Sequeira
+
+
+
+
+
+8pm on washing machine
+also keep bating water for pspps
