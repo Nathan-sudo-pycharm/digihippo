@@ -28,12 +28,8 @@ Report :
         https://excalidraw.com/  
         https://ui.shadcn.com/docs/components/sheet
         Stuck with an issue in cart      error shown 
+        error solved with :  "use client"  and not "use Client "
         
-Ended on : 8:22PM        - Nathan Ivor Sequeira
+Ended on : 8:26PM        - Nathan Ivor Sequeira
 
 
-
-
-
-8pm on washing machine
-also keep bating water for pspps

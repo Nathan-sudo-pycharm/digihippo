@@ -1,5 +1,3 @@
-// for clicking outside the nav bar    the nav bar shld close
-
 import { RefObject, useEffect } from "react";
 
 type Event = MouseEvent | TouchEvent;
