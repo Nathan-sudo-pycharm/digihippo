@@ -1,0 +1,16 @@
+Date : 29 Jan 2024 
+Time : 6:35 PM
+Author : Nathan Ivor Sequeira
+Report :
+        We will be building a marketplace where the users can buy digital art.
+        Installed Shadcnui ( https://ui.shadcn.com/docs/installation/next ).
+
+        Icons : https://lucide.dev/      npm add lucide-react     
+        
+        Tailwind css Properties :
+        tracking-tight : letter-spacing: -0.025em;
+
+        Shift+alt+arrowDown : pastes content right below the selected text.
+
+        Work done: Installed Shadcn ui , made the basic home page using svg , found icon svg. 
+Ended on : 8:22PM        - Nathan Ivor Sequeira
