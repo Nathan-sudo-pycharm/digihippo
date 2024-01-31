@@ -32,4 +32,31 @@ Report :
         
 Ended on : 8:26PM        - Nathan Ivor Sequeira
 
+Date : 31 Jan 2024 
+Time : 5:22 PM
+Author : Nathan Ivor Sequeira
+Report :
+        created  server.ts  file which is used to connect our app with the database .
+        npm add express  and  npm add -D @types/express  
+        npm add cross-env :  lets us work with same environment variables on diffrent platforms 
+         npm add @payloadcms/richtext-slate  @payloadcms/bundler-webpack @payloadcms/db-mongodb 
+         Explanation :
+                        @payloadcms/richtext-slate:This package seems to be related to the Payload CMS and provides a rich text editor 
+                        component based on the Slate.js framework.
+
+                        @payloadcms/richtext-slate package likely contains components and utilities for working with rich text in 
+                        Payload CMS using Slate.js.
+
+                        @payloadcms/bundler-webpack:This package appears to be related to the Payload CMS and is likely a webpack
+                         bundler configuration specifically tailored for Payload projects.It might include webpack configuration 
+                         settings, plugins, and loaders optimized for building Payload CMS applications.
+
+                        @payloadcms/db-mongodb:This package seems to be another Payload CMS-related package, specifically for MongoDB integration.
+                        It likely provides functionality to interact with MongoDB databases in the context of a Payload CMS project.
+
+Ended on : 8:26PM        - Nathan Ivor Sequeira
+
+
+
+2:03:51
 

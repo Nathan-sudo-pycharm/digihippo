@@ -1,0 +1,85 @@
+code : {
+  "watch": ["server.ts", "src/collections/**/*.ts", "src/trpc/index.ts"],
+  "exec": "ts-node --project tsconfig.server.json src/server.ts -- -I",
+  "ext": "js ts",
+  "stdin": false
+}
+
+Explanantion: 
+"watch" Array:
+
+This specifies an array of files and directories to watch for changes.
+When any file in this list changes, ts-node-dev will automatically restart the TypeScript server.
+"exec" String:
+
+This defines the command that should be executed when changes are detected.
+It is using ts-node to run the TypeScript files with a specific configuration (--project tsconfig.server.json).
+The main file to execute is src/server.ts.
+The -- -I part may include additional command-line options for ts-node (e.g., -I may indicate that TypeScript should ignore TypeScript files in the ignore list).
+"ext" String:
+
+This specifies the file extensions to watch for changes.
+In this case, it will trigger a restart when either ".js" or ".ts" files change.
+"stdin" Boolean:
+
+This indicates whether ts-node-dev should listen to changes from stdin (standard input).
+Setting it to false means it won't listen to changes from stdin.
+In summary, this configuration is telling ts-node-dev to watch specific TypeScript files and directories, and when changes are detected, it will restart the TypeScript server by executing ts-node on src/server.ts with the specified configuration. This is useful during development to automatically restart the server when changes are made to the codebase.
+
+ Code :
+ {
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+      "module": "CommonJS",
+      "outDir": "dist",
+      "noEmit": false,
+      "jsx": "react"
+    },
+    "include": ["src/server.ts", "src/payload.config.ts"]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
