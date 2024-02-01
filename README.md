@@ -2,7 +2,7 @@
 
 Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 
-![Project Image](https://github.com/joschan21/digitalhippo/blob/master/public/thumbnail.jpg)
+![Project Image](./public/Github.png)
 
 ## Features
 
@@ -25,11 +25,16 @@ Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 To get started with this project, run
 
 ```bash
-  git clone https://github.com/joschan21/digitalhippo.git
+  git clone https://github.com/Nathan-sudo-pycharm/digihippo.git
+```
+
+Navigate into the folder .
+
+```bash
+  npm install
 ```
 
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
-
 
 ## Acknowledgements
 
